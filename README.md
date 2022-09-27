@@ -13,21 +13,30 @@ To relieve the need of data captured in real-world industrial environment, we pr
 The IDS Dataset can be downloaded here:
 
 Link：https://pan.baidu.com/s/13BO1MNhYH_C_MLbCntb2QA 
+
 Extraction code：zgn2 
 
 3. Reference:
 
 Depending on the application, please use the following citations when using the dataset:
 
-@article{9893197,
-  author    = {Song, Xibin and Zhou, Dingfu and Li, Wei and Ding, Haodong and Dai, Yuchao and Zhang, Liangjun},
-  title     = {WSAMF-Net: Wavelet Spatial Attention based Multi-stream Feedback Network for Single Image Dehazing},
-  journal   = {IEEE Transactions on Circuits and Systems for Video Technology},
-  volume    = {},
-  year      = {2022},
-  number    = {},
-  pages     = {},
-  doi       = {10.1109/TCSVT.2022.3207020}
-}
+@ARTICLE{9893197,
+
+  author={Song, Xibin and Zhou, Dingfu and Li, Wei and Ding, Haodong and Dai, Yuchao and Zhang, Liangjun},
+  
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  
+  title={WSAMF-Net: Wavelet Spatial Attention based Multi-stream Feedback Network for Single Image Dehazing}, 
+  
+  year={2022},
+  
+  volume={},
+  
+  number={},
+  
+  pages={1-1},
+  
+  doi={10.1109/TCSVT.2022.3207020}}
+
 
 [1]. Zhang L, Zhao J, Long P, et al. An autonomous excavator system for material loading tasks[J]. Science Robotics, 2021, 6(55): eabc3164.
