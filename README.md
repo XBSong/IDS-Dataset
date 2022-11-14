@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/11418198/174483040-55546cef-81f0-466a-baf3-9262711b09e4.png)
 
-1. Introduction: 
+## Introduction: 
 
 To relieve the need of data captured in real-world industrial environment, we release the IDS dataset which is captured in a more critical real-world quarry scenarios of industrial operations. 3300 real-world captured images are contained, where 3000 images are split for training and 300 images are for testing. 
 
