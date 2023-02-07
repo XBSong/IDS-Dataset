@@ -19,21 +19,13 @@ Extraction code：zgn2
 Depending on the application, please use the following citations when using the dataset:
 
 @ARTICLE{9893197,
-
   author={Song, Xibin and Zhou, Dingfu and Li, Wei and Ding, Haodong and Dai, Yuchao and Zhang, Liangjun},
-  
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  
-  title={WSAMF-Net: Wavelet Spatial Attention based Multi-stream Feedback Network for Single Image Dehazing}, 
-  
-  year={2022},
-  
-  volume={},
-  
-  number={},
-  
-  pages={1-1},
-  
+  title={WSAMF-Net: Wavelet Spatial Attention-Based MultiStream Feedback Network for Single Image Dehazing}, 
+  year={2023},
+  volume={33},
+  number={2},
+  pages={575-588},
   doi={10.1109/TCSVT.2022.3207020}}
 
 ### 4. References:
